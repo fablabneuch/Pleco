@@ -1,25 +1,28 @@
+<<<<<<< HEAD:Fabrication/00_Archives/Readme.txt
 *** Pleco ***
 
 Téléchargé sur:	http://www.fablab-neuch.ch/pleco
 
 
+=======
+>>>>>>> ccac0ef5721dddccdc55e0b70c647000087b3d4c:Fabrication/Readme.txt
 *** FABRICATION ***
 
 --->DECOUPES LASER
 
-Les fichiers présents dans le dossier /découpes_laser sont destinés à la découpe.
-Les matières à utiliser sont indiquées dans le document.
+Les fichiers prÃ©sents dans le dossier /dÃ©coupes_laser sont destinÃ©s Ã  la dÃ©coupe.
+Les matiÃ¨res Ã  utiliser sont indiquÃ©es dans le document.
 
-Lors de la conception des pièces, la découpeuse laser suivante a été utilisée: 	
+Lors de la conception des piÃ¨ces, la dÃ©coupeuse laser suivante a Ã©tÃ© utilisÃ©e: 	
 TROTEC speedy 300
 
 
 --->IMPRESSIONS 3D
 
-Pour des questions d'étanchéité, les fichiers présents dans le dossier /impressions_3D_DLP sont à imprimer avec une technologie d'impression 3D DLP (Digital Light Processing) ou SLA (Stereolithography).
-Lors de la conception des pièces, l'imprimante 3D suivante a été utilisée: 	
+Pour des questions d'Ã©tanchÃ©itÃ©, les fichiers prÃ©sents dans le dossier /impressions_3D_DLP sont Ã  imprimer avec une technologie d'impression 3D DLP (Digital Light Processing) ou SLA (Stereolithography).
+Lors de la conception des piÃ¨ces, l'imprimante 3D suivante a Ã©tÃ© utilisÃ©e: 	
 B9 Creator (http://www.b9creator.com/)
 
-Les fichiers présents dans le dossier /impressions_3D_FDM sont à imprimer avec une technologie d'impression 3D FDM (Fused deposition modeling).
-Lors de la conception des pièces, l'imprimante 3D suivante a été utilisée: 	
+Les fichiers prÃ©sents dans le dossier /impressions_3D_FDM sont Ã  imprimer avec une technologie d'impression 3D FDM (Fused deposition modeling).
+Lors de la conception des piÃ¨ces, l'imprimante 3D suivante a Ã©tÃ© utilisÃ©e: 	
 Ultimaker (http://www.ultimaker.com/)
